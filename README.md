@@ -5,7 +5,7 @@ This project showcases two powerful AI automation workflows built with **n8n**, 
 
 Both workflows intelligently respond to **customer support emails**, but differ in control vs autonomy.
 
-📺 **[Watch the Demo Video:] (https://drive.google.com/file/d/1Rx07MF_qM_Sg5L8VEXKn2suuQuEogwdM/view?usp=sharing)(#)** 
+📺 **[Watch the Demo Video:](https://drive.google.com/file/d/1Rx07MF_qM_Sg5L8VEXKn2suuQuEogwdM/view?usp=sharing)(#)** 
 
 ---
 
@@ -90,7 +90,7 @@ A more deterministic approach where you control the logic:
 ## 📹 Demo
 
 🔗 [Click here to watch the full workflow demo:](https://drive.google.com/file/d/1Rx07MF_qM_Sg5L8VEXKn2suuQuEogwdM/view?usp=sharing)(#)  
-(Add your video link here — YouTube, Loom, or hosted .mp4)
+
 
 ---
 
