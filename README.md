@@ -3,7 +3,7 @@ AI-Powered Gmail Auto-Responder using n8n, LLMs, and Pinecone — handles custom
 
 This project showcases two powerful AI automation workflows built with **n8n**, designed to classify incoming Gmail messages and auto-reply using **LLMs (via OpenRouter)** and **vector search with Pinecone**.
 
-Both workflows intelligently respond to **customer support emails**, but differ in control vs autonomy.
+**Both workflows are designed to achieve the same goal** — smartly auto-responding to customer support emails using AI — but differ in their level of autonomy and control.
 
 📺 **[Watch the Demo Video:](https://drive.google.com/file/d/1Rx07MF_qM_Sg5L8VEXKn2suuQuEogwdM/view?usp=sharing)(#)** 
 
